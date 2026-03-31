@@ -18,7 +18,7 @@
     {
       "name": "bartsmacros",
       "label": "Bart's Macros",
-      "path": ".packs\bartsmacros",
+      "path": ".packs/bartsmacros",
       "type": "Macro",
     },
 ]
