@@ -1,19 +1,18 @@
 {
   "id": "bartmacros",
-  "title": "Barts Macros",
-  "description": "A collection of macros I used to make my games and game prep easier",
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "12",
-    "verified": "13",
-    "maximum": "14"
-  },
-  "authors": [
+  "title": "Bart's Macros",
+  "description": "A collection of macros I used to make my games and game prep easier.",
+    "authors": [
     {
       "name": "Bart",
       "url": "https://www.patreon.com/barts_rpg_stuff"
     }
   ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
   "packs": [
     {
       "name": "bartsmacros",
@@ -22,6 +21,6 @@
       "type": "Macro"
     }
 ]
-  "manifest": "https://github.com/bklick/bartsmacros/releases/latest/download/module.json"
+  "manifest": "https://github.com/bklick/bartsmacros/releases/latest/download/module.json",
   "download": "https://github.com/bklick/bartsmacros/releases/download/1.0.0/module.zip"
 }
