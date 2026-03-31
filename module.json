@@ -21,7 +21,6 @@
       "path": ".packs\bartsmacros",
       "type": "Macro",
     },
-    }
 ]
   "manifest": "https://github.com/bklick/bartsmacros/releases/latest/download/module.json",
   "download": "https://github.com/bklick/bartsmacros/releases/download/1.0.0/module.zip",
