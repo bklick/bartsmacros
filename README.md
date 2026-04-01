@@ -347,8 +347,6 @@ if (!actor) {
 
 ## Darkvision 120ft
 
-> **System:** D&D 5e | **Who runs it:** GM
-
 Identical to the 60ft version, but sets the range to 120ft. My players love to be drow, so I have this one saved now.
 
 <details>
