@@ -825,7 +825,7 @@ if (!playerTokens.length) {
 
 Feel free to open an issue if you have a problem. I'll do my best to fix it. You are also welcome to fork this for your own purposes.
 
-Thanks for reading! 
+Thanks for reading! If you like this, check out the stuff I make (very occasionally) on [patreon](https://www.patreon.com/c/barts_rpg_stuff). 
 ---
 
 ## License & AI Disclaimer
